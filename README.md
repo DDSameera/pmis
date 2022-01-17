@@ -3,7 +3,7 @@
 <img   src="https://raw.githubusercontent.com/DDSameera/pmis/master/screens/scr1.PNG" />
 <img   src="https://raw.githubusercontent.com/DDSameera/pmis/master/screens/scr2.PNG" />
 <img   src="https://raw.githubusercontent.com/DDSameera/pmis/master/screens/scr3.PNG" />
-<img   src="https://raw.githubusercontent.com/DDSameera/pmis/master/screens/scr0.PNG" />
+<img   src="https://raw.githubusercontent.com/DDSameera/pmis/master/screens/db.PNG" />
 
 ``
 
