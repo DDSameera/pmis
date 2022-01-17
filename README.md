@@ -5,12 +5,12 @@
 <img   src="https://raw.githubusercontent.com/DDSameera/pmis/master/screens/scr3.PNG" />
 <img   src="https://raw.githubusercontent.com/DDSameera/pmis/master/screens/db.PNG" />
 
-``
+
 
 #  Getting Start 
 
 1. Add Following Virtual host
-`
+```
 
 <VirtualHost *:80>
    ServerName pmis.test
